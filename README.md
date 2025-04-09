@@ -1,3 +1,11 @@
+<div align="center">
+  <p>Rejoignez-nous sur Discord pour obtenir de l'aide, donner votre avis et discuter !</p>
+  <a href="https://discord.gg/azar">
+    <img src="https://discord.com/api/guilds/1340354382235045978/widget.png?style=banner2" alt="Discord Banner" />
+  </a>
+</div>
+
+
 ```sh
 # Identity Name
 git config --global user.name "micferna"
