@@ -20,7 +20,7 @@ git config --global user.company "EPi"
 git config --global user.position "YTP" 
 
 # Localisation 
-git config --global user.localisation "Alpes-Maritimes, France" 
+git config --global user.localisation "Paris, France" 
 ```
 
 Bienvenue dans le monde merveilleux des pizzas, où chaque bouchée est une explosion de saveurs et de bonheur ! 
