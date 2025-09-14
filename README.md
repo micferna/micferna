@@ -11,7 +11,7 @@
 git config --global user.name "micferna"
 
 # Identity Email
-git config --global user.email "admin@micferna.eu"
+git config --global user.email "root@localhost"
 
 # Company
 git config --global user.company "EPi"
@@ -20,7 +20,7 @@ git config --global user.company "EPi"
 git config --global user.position "YTP" 
 
 # Localisation 
-git config --global user.localisation "Auvergne, France" 
+git config --global user.localisation "Alpes-Maritimes, France" 
 ```
 
 Bienvenue dans le monde merveilleux des pizzas, où chaque bouchée est une explosion de saveurs et de bonheur ! 
